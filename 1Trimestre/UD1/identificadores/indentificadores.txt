@@ -1,0 +1,30 @@
+El identificador 'numeroDeTelefono' es válido.
+El identificador '$totalVentas' es válido.
+El identificador 'mi_nombre' es válido.
+El identificador '4everYoung' no es válido.
+El identificador '_variable' es válido.
+El identificador '#precioProducto' no es válido.
+El identificador 'usuario-email' no es válido.
+El identificador '$saldoCuenta' es válido.
+El identificador 'primeraClase' es válido.
+El identificador 'mi_123_variable' es válido.
+El identificador '_nombreUsuario' es válido.
+El identificador '12345_valor' no es válido.
+El identificador '&variable' no es válido.
+El identificador '$precioUnitario' es válido.
+El identificador '#contador_de_inventario' no es válido.
+El identificador 'miVariable%descuento' no es válido.
+El identificador 'producto1' es válido.
+El identificador '3añosDeExperiencia' no es válido.
+El identificador '_mi_numero_de_cuenta' es válido.
+El identificador 'mi_salario$$' es válido.
+El identificador '$nombreCliente' es válido.
+El identificador 'variable#temporal' no es válido.
+El identificador '_variable99' es válido.
+El identificador 'mi_@direccion' no es válido.
+El identificador 'precio-total' no es válido.
+El identificador '5HorasTrabajo' no es válido.
+El identificador '!descuento' no es válido.
+El identificador 'codigoDeProducto' es válido.
+El identificador '_MiIdentificador' es válido.
+El identificador 'valor#unitario' no es válido.

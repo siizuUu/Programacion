@@ -1,0 +1,11 @@
+git config --global http.proxy http[s]://192.168.0.11:3128
+git config --global user.email "oscarperdizbarros@gmail.com"
+git config --global user.name sizuUu
+
+
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/siizuUu/prueba.git
+git push -u origin main
