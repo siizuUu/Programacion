@@ -3,7 +3,7 @@ package expresiones;
 public class Comprobacion {
     public static void main(String[] args) {
         // Declaración de variables y constantes
-        int a=8, b=3, c=-5;
+        int a = 8, b = 3, c = -5;
         
         System.out.println(a + b + c);
         System.out.println(2 * b + 3 * (a - c));

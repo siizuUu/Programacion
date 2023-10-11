@@ -73,7 +73,6 @@ public class Api {
         System.out.println("Valor char: " + varChar);
         System.out.println("Valor booleano: " + varBoolean);
 
-
         input.close();
     }
 }

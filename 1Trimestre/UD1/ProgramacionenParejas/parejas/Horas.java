@@ -1,3 +1,7 @@
+/*
+ * Driver: Rodrigo Pazos
+ * Copilotos: Diego Pazos y Oscar Perdiz
+ */
 package parejas;
 
 import java.util.Scanner;
